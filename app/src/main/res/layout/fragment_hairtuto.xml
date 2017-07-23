@@ -1,0 +1,50 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:columnCount="3"
+    tools:context="com.forever.smarthair.HairtutoFragment">
+
+    <ImageView
+    android:src="@drawable/tuto2"
+    android:layout_width="120dp"
+    android:layout_height="120dp"/>
+    <ImageView
+        android:src="@drawable/tuto6"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+    <ImageView
+        android:src="@drawable/tuto7"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+    <ImageView
+        android:src="@drawable/tuto5"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+
+    <ImageView
+        android:src="@drawable/tuto3"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+    <ImageView
+        android:src="@drawable/tuto4"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+
+    <ImageView
+        android:src="@drawable/tuto18"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+    <ImageView
+        android:src="@drawable/tuto17"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+
+    <ImageView
+        android:src="@drawable/tuto21"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+
+
+</GridLayout>
